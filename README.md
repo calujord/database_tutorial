@@ -120,3 +120,5 @@ ORDER BY
 Resultado esperado:
 
 La consulta devolverá una lista de las órdenes realizadas, con detalles de cada producto dentro de la orden, el nombre del cliente, la categoría del producto, y los subtotales calculados para cada producto dentro de la orden, junto con el total de la orden. Esta es una forma eficiente de obtener un informe detallado de las compras realizadas en el sistema.
+
+![Descripción de la imagen](image.png)
